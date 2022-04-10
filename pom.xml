@@ -6,7 +6,7 @@
     <artifactId>leaf-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0.1</version>
-    <name>Leaf</name>
+    <name>leaf</name>
     <modules>
         <module>leaf-core</module>
         <module>leaf-server</module>
